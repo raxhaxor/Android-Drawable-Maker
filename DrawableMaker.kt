@@ -46,6 +46,7 @@ open class DrawableMaker {
             dashColor,
             dashWidth.dpToPx().toFloat(),
             dashGap.dpToPx().toFloat())
+        gradientDrawable.mutate()
         return gradientDrawable
     }
 
