@@ -1,9 +1,10 @@
 # Android - Drawable Maker
 ## Programmatically create and set shape drawable to any view
 
-It is util which helps you to make shape drawable programmatically
+Util which helps you to make shape drawable programmatically
 
 - No need to write basic shape drawable, we can do it at runtime using this util.
+- Works also with material component views.
 
 ## Example Usage
 
