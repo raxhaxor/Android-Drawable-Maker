@@ -4,7 +4,7 @@
 Util which helps you to make shape drawable programmatically
 
 - No need to write basic shape drawable, we can do it at runtime using this util.
-- Works also with material component views.
+- Works also with material component views which do not support set background.
 
 ## Example Usage
 
@@ -27,7 +27,7 @@ view.setDrawable {
             cornerRadii = CornerRadii(leftTop = 10, leftBottom = 20, rightTop =  10, rightBottom =  20)
             dashHeight = 2
             dashColor = Color.WHITE
-            gradientOrientation = GradientDrawable.Orientation.LEFT_RIGHT
+            gradientOrientation = GradientDrawable.Orientation.RIGHT_LEFT
             gradientColors = intArrayOf(Color.RED, Color.CYAN, Color.GREEN)
         }
 ```
