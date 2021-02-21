@@ -7,7 +7,7 @@ It is util which helps you to make shape drawable programmatically
 
 ## Example Usage
 
-> Creating solid rectangle shape with 10dp corner radius and Light Gray color.
+### Creating solid rectangle shape with 10dp corner radius and Light Gray color.
 
 ![N|Solid](https://i.ibb.co/5YGPRhw/Whats-App-Image-2021-02-21-at-2-44-31-PM.jpg)
 ```
@@ -18,7 +18,7 @@ btn.setDrawable {
 ```
 
 
->Creating gradient(Left to Right) drawable with stroke(White) and dissimilar corner radius
+### Creating gradient(Left to Right) drawable with stroke(White) and dissimilar corner radius
 
 ![N|Solid](https://i.ibb.co/rGh6tdF/Whats-App-Image-2021-02-21-at-2-33-16-PM.jpg)
 ```
