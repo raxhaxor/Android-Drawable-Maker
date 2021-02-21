@@ -4,7 +4,7 @@
 Util which helps you to make shape drawable programmatically
 
 - No need to write basic shape drawable, we can do it at runtime using this util.
-- Works also with material component views which do not support set background.
+- Works also with material component views which do not support set background completly.
 
 ## Example Usage
 
@@ -19,7 +19,7 @@ btn.setDrawable {
 ```
 
 
-### Creating gradient(Left to Right) drawable with stroke(White) and dissimilar corner radius
+### Creating gradient(Right to Left) drawable with stroke(White) and dissimilar corner radius
 
 ![N|Solid](https://i.ibb.co/rGh6tdF/Whats-App-Image-2021-02-21-at-2-33-16-PM.jpg)
 ```
