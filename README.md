@@ -34,14 +34,14 @@ view.setDrawable {
 ## Options
 ### We can make basic shape drawable with ease at runtime with these provided options.
 
-> shape
-color
-cornerRadius
-cornerRadii
-gradientOrientation
-gradientColors
-dashHeight
-dashColor
-dashGap
-dashWidth
-gradientType
+- shape
+- color
+- cornerRadius
+- cornerRadii
+- gradientOrientation
+- gradientColors
+- dashHeight
+- dashColor
+- dashGap
+- dashWidth
+- gradientType
